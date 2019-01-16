@@ -6,6 +6,8 @@
 
 K-近邻算法（KNN）
 
+感知机
+
 决策树（Decision Trees）
 
 集成方法（Ensemble methods）
