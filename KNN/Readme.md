@@ -1,4 +1,4 @@
-# 简要说明，以下代码全部在pyhon3下运行
+# 简要说明，以下代码全部在python3下运行
 ## MNIST-keras.py是用keras搭建的CNN模型识别手写数字
 ## choose best k.py是用交叉验证法选择最好的k函数，可直接调用
 ## kNN-mnist-sklearn.py是调用sklearn KNN接口 KNeighborsClassifier 完成手写图片识别
